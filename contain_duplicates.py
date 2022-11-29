@@ -10,4 +10,4 @@ def containsDuplicate(nums) -> bool:
     else:
         return False
 
-containsDuplicate([1,2,3,4,4,5,5])
+containsDuplicate([1,2,3,4,4,5,5,6])
